@@ -1,4 +1,3 @@
-![Pacman Dark](https://raw.githubusercontent.com/brian-naufal/brian-naufal/output/dist/pacman-dark.svg)
 
 # 💫 About Me:
 Hi there, I'm Brian 👋<br><br>🎓 Computer Science Student<br><br>I love turning ideas into code.<br><br>🚀 About Me<br>- 🎓 I’m currently studying Computer Science at Universitas Brawijaya<br>- 💻 I'm currently focusing in Frontend Development<br>- 🚀 My goal is to become a Full Stack Developer<br>- 🌱 I’m currently expanding my skills by learning Databases and DSA<br>- 👯 I’m looking to collaborate on student projects
