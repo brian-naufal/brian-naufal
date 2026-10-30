@@ -59,8 +59,8 @@
 </p>
 
 <p align="center">
-  <img height="180" width="49%" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=brian-naufal&theme=dark&hide_border=false" />
-  <img height="180" width="49%" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=brian-naufal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <img height="185" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=brian-naufal&theme=dark&hide_border=false" />
+  <img height="185" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=brian-naufal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </p>
 
 ## ✍️ Random Dev Quote
